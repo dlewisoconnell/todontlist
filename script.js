@@ -12,8 +12,8 @@ addToDontButton.addEventListener('click', function(){
   inputField.value = ""; 
   shameArray.push(1);
   paragraph.addEventListener('dblclick', function(){
-    toDontContainer.removeChild(paragraph);
-    shameArray.pop(1);
+  toDontContainer.removeChild(paragraph);
+  shameArray.pop(1);
       })
     })
 
