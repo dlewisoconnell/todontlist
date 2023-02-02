@@ -16,10 +16,6 @@ addToDontButton.addEventListener('click', function(){
     shameArray.pop(1);
       })
     })
-    
-//addTotalShame.addEventListener('click', function(){
-//   if (shameArray.length === 0) {window.alert("Great Job!")};
-//  else {window.alert("Shame!")}})
 
 addTotalShame.addEventListener('click', function(){
    if (shameArray.length === 0) {window.alert("Great Job!")}

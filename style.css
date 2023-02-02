@@ -8,19 +8,19 @@ html, body {
 }
 
 .container {
-    width: 360px;
+    width: 300px;
     align-self: center;
 }
 
 .explain {
     display: flex;
     align-self: center;
-    width: 360px;
+    width: 300px;
     padding-bottom: 20px;
 }
 
 #inputField {
-    width: 300px;
+    width: 240px;
     height: 46px;
     border: 1px solid black;
     outline: none;
